@@ -11,7 +11,7 @@ To use the API, you can make HTTP requests to the following endpoints:
 * `/api/posts`: This endpoint allows you to create, retrieve, update, and delete posts.
 * `/api/comments`: This endpoint allows you to create, retrieve, update, and delete comments.
 
-For more information on how to use the API, please see the [API documentation](https://docs.skateboarding-api.com/).
+For more information on how to use the API, please see the [API documentation](https://fabiosimedo.github.io/skateboardingAPI-docs/).
 
 ## Contributing
 
